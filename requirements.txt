@@ -1,2 +1,4 @@
 openai
 gradio
+ffmpeg
+pathlib
